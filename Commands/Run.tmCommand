@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>saveActiveFile</string>
+	<key>command</key>
+	<string>ruby "$TM_BUNDLE_SUPPORT/run.rb"</string>
+	<key>input</key>
+	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>@r</string>
+	<key>name</key>
+	<string>Run</string>
+	<key>output</key>
+	<string>discard</string>
+	<key>scope</key>
+	<string>song.mml</string>
+	<key>uuid</key>
+	<string>FD879EE1-1A15-4BB3-8C06-B7D7DDBBDEE2</string>
+</dict>
+</plist>
